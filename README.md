@@ -21,10 +21,10 @@ Follow these steps:
 
 ```bash
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/Bd-Mutant7/Habit-Tracker-App>
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd <Habit Tracker App>
 
 # Step 3: Install the necessary dependencies.
 bun i
@@ -295,4 +295,5 @@ For mobile apps, you'll configure your app's deep linking scheme in `app.json`.
 ### **Need help with native features?**
 
 - Browse [React Native's documentation](https://reactnative.dev/docs/getting-started) for core components
+
 
